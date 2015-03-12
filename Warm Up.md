@@ -6,3 +6,10 @@
 ## Exercise 2
 + Check out [this website](http://jqexercise.droppages.com), and do some revision about `jQuery`.
 + What are PROS and CONS of  `jQuery`? List at least three points for each.
+
+## Exercise 3
++ Use `git` in this repo.
+	+ Create a branch.
+	+ List what you have learned.
+	+ Make a `pull request`.
+	+ And `merge` it.
