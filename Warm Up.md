@@ -13,3 +13,16 @@
 	+ List what you have learned.
 	+ Make a `pull request`.
 	+ And `merge` it.
+
+## Exercise 4
++ Learning `javascript`
+	+ Clousure
+		+ Singleton
+	+ OOP(Object-oriented programming)
+		+ Objects
+		+ Public/Private Variables and Methods
+		+ Inheritance
++ Coding:
+	1. Fibonacci using closure
+	2. Perfect squares using closure
+	3. Singleton using OOP
