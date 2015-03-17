@@ -26,3 +26,9 @@
 	1. Fibonacci using closure
 	2. Perfect squares using closure
 	3. Singleton using OOP
+
+## Exercise 5
++ Write an HTML 5 page without CSS, containing:
+	+ A To-do title
+	+ 3 or more sections
+	+ Todo lists
