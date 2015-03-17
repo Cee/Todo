@@ -1,4 +1,10 @@
-var isSqr = function (n) {
-	long closestRoot = (long) Math.Sqrt(input);
-	return input == closestRoot * closestRoot;
+var makeSquare = function(){
+	var squareRoot=1;
+	return function() {
+		var square = squareRoot*squareRoot;
+		squareRoot += 1;
+		return square;
+	}
 }
+var square = new makeSquare();
+console.log(square());
