@@ -32,3 +32,9 @@
 	+ A To-do title
 	+ 3 or more sections
 	+ Todo lists
+
+## Exercise 6
++ Prettify your webpage
+	+ Responsive design
+	+ Gradient background
+	+ Fold the section without using javascript
