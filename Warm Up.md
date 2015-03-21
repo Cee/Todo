@@ -38,3 +38,8 @@
 	+ Responsive design
 	+ Gradient background
 	+ Fold the section without using javascript
+
+## Exercise 7
++ Build your database
+	+ Create the database
+	+ Add/Delete/Modify/Query your data
